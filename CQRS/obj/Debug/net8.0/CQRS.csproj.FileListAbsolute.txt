@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\CQRS\bin\Debug\net8.0\CQRS.deps.json
+C:\Users\USER\source\repos\CQRS\bin\Debug\net8.0\CQRS.runtimeconfig.json
+C:\Users\USER\source\repos\CQRS\bin\Debug\net8.0\CQRS.dll
+C:\Users\USER\source\repos\CQRS\bin\Debug\net8.0\CQRS.pdb
+C:\Users\USER\source\repos\CQRS\obj\Debug\net8.0\CQRS.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\CQRS\obj\Debug\net8.0\CQRS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\CQRS\obj\Debug\net8.0\CQRS.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\CQRS\obj\Debug\net8.0\CQRS.AssemblyInfo.cs
+C:\Users\USER\source\repos\CQRS\obj\Debug\net8.0\CQRS.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CQRS\obj\Debug\net8.0\CQRS.dll
+C:\Users\USER\source\repos\CQRS\obj\Debug\net8.0\refint\CQRS.dll
+C:\Users\USER\source\repos\CQRS\obj\Debug\net8.0\CQRS.pdb
+C:\Users\USER\source\repos\CQRS\obj\Debug\net8.0\CQRS.genruntimeconfig.cache
+C:\Users\USER\source\repos\CQRS\obj\Debug\net8.0\ref\CQRS.dll
